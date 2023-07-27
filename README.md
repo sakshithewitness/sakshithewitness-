@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science Engineer
 -------------------------
 
-As an industrious and dedicated computer science engineering student, my ardor for programming was ignited at the tender age of fourteen, and since then, I have relentlessly pursued the path of technological enlightenment. My insatiable thirst for knowledge propels me to delve deep into the intricacies of algorithms, data structures, and software engineering, fostering a profound understanding of the ever-evolving landscape of technology.
+Hey there! I'm Sakshi Agnihotri, your friendly neighborhood computer science enthusiast! 🚀 I've been hooked on coding since I was just 14, and let me tell you, it's been one wild ride! 🌪️ Tech is my jam, and I'm all about soaking up knowledge like a sponge! 💡
 
-In my quest for expertise, I am resolutely engaged in honing my skills across a diverse spectrum of programming languages, frameworks, and paradigms, constantly pushing the boundaries of my capabilities. With an unwavering focus on continuous improvement, I am currently engrossed in full-stack web development and actively exploring the realms of application development for Android.
+Algorithms, data structures, operating system , microprocessors , software testing and software engineering? No biggie, I'm totally geeking out on'em! 🤓 I'm on a mission to master all things tech, rocking various programming languages, frameworks, and paradigms like a boss! 💪
 
-Ever committed to collaborative ventures, I welcome the opportunity to partake in projects that entail innovation and challenge, as I believe that collective endeavors bring forth the best solutions.
+Right now, I'm all heart-eyed for full-stack web development and diving headfirst into the world of Android app creation! 🌐📱And guess what? I'm totally down for rad collabs, 'cause teamwork makes the dream work, right? 🤝
 
+So buckle up, 'cause I'm on a non-stop rollercoaster of learning and exploring, ready to take on any coding challenge that comes my way! 🎢 Together, let's code the future and make the world a better place, one line of code at a time! 🌈✨
 In conclusion, I am steadfast in my pursuit of excellence, standing at the threshold of knowledge with a fervent determination to embrace all that the world of technology has to offer.
 
 - 📧 You can contact me at [sakshiagnihotri26@gmail.com](mailto:sakshiagnihotri26@gmail.com)

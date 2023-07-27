@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science Engineer
 -------------------------
 
-Ah, verily, as an illustrious and tenacious disciple of the hallowed realm of computer science, I have embarked upon this resplendent journey of programming from the tender age of fourteen summers. With an unyielding ardor for the arcane arts of technology, I fervently endeavor to unravel the intricate tapestry of algorithms, data structures, and software engineering, immersing myself in the ethereal realms of software development and computational paradigms. My insatiable thirst for knowledge, akin to a voracious maelstrom, drives me ever forward, seeking to master the esoteric domains of programming languages, frameworks, and paradigms, thereby soaring on the wings of progress toward ever greater technical prowess and erudition. With unwavering determination, I strive to transcend the boundaries of human comprehension, traversing the celestial expanses of full-stack web development and the enigmatic labyrinth of application development in the venerated realm of Android. As I stand upon the precipice of learning, I extend an open hand, embracing the prospect of fruitful collaborations and harmonious synergies, for I am but an intrepid seeker, unfurling my resplendent banner of intellect as I traverse the grand expanse of technological wisdom.
+As an industrious and dedicated computer science engineering student, my ardor for programming was ignited at the tender age of fourteen, and since then, I have relentlessly pursued the path of technological enlightenment. My insatiable thirst for knowledge propels me to delve deep into the intricacies of algorithms, data structures, and software engineering, fostering a profound understanding of the ever-evolving landscape of technology.
+
+In my quest for expertise, I am resolutely engaged in honing my skills across a diverse spectrum of programming languages, frameworks, and paradigms, constantly pushing the boundaries of my capabilities. With an unwavering focus on continuous improvement, I am currently engrossed in full-stack web development and actively exploring the realms of application development for Android.
+
+Ever committed to collaborative ventures, I welcome the opportunity to partake in projects that entail innovation and challenge, as I believe that collective endeavors bring forth the best solutions.
+
+In conclusion, I am steadfast in my pursuit of excellence, standing at the threshold of knowledge with a fervent determination to embrace all that the world of technology has to offer.
 
 - 📧 You can contact me at [sakshiagnihotri26@gmail.com](mailto:sakshiagnihotri26@gmail.com)
 - 🔭 I'm currently working on [Study Buddy](http://studybuddy) - a project.

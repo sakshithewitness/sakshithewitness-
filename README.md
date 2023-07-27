@@ -15,9 +15,9 @@ In conclusion, I am steadfast in my pursuit of excellence, standing at the thres
 
 - 📧 You can contact me at [sakshiagnihotri26@gmail.com](mailto:sakshiagnihotri26@gmail.com)
 - 🔭 I'm currently working on [Study Buddy](http://studybuddy) - a project.
-- 🌱 I'm learning full-stack web development and Android application development.
+- 🌱 I'm learning full-stack web development,Data Science and Analytics, Cloud Computing, Cybersecurity, and Andriod app development.
 - 👯 I'm open to collaborating on projects.
-- ⚡ Fun Fact: I am Catwoman!
+- ⚡ Fun Fact: I am Catwoman!, lol no i am smiderwomen , lol no 
 
 ---
 
@@ -61,8 +61,5 @@ src="https://img.shields.io/github/followers/sakshithewitness?logo=github&style=
 
 <a href="http://www.github.com/sakshithewitness"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sakshithewitness&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sakshithewitness" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshithewitness&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />

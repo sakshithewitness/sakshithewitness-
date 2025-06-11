@@ -21,10 +21,10 @@ Java, C++, Python (Basics), SQL, JavaScript (Basics)
 HTML, CSS, Node.js (Basics), Express.js (Basics), APIs, Spring Boot (Basics), Thymeleaf
 
 **Tools & Tech:**  
-MySQL, Postman, Git, GitHub, REST APIs, AWS EC2, CI/CD, Flutter, Flask, TensorFlow Lite
+MySQL, Postman, Git, GitHub, REST APIs, AWS EC2, CI/CD, Flutter, Flask, Andriod.
 
 **Core Concepts:**  
-OOP, DBMS, DSA, Operating Systems, Software Engineering
+OOP, DBMS, DSA, Computer Networks, Software Engineering
 
 ---
 

@@ -1,65 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sakshi Agnihotri
-========================================================================================================================================
+# 👋 Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
 
-Computer science Engineer
--------------------------
+## I'm Sakshi Agnihotri
 
-Hey there! I'm Sakshi Agnihotri, your friendly neighborhood computer science enthusiast! 🚀 I've been hooked on coding since I was just 14, and let me tell you, it's been one wild ride! 🌪️ Tech is my jam, and I'm all about soaking up knowledge like a sponge! 💡
-
-Algorithms, data structures, operating system , microprocessors , software testing and software engineering? No biggie, I'm totally geeking out on'em! 🤓 I'm on a mission to master all things tech, rocking various programming languages, frameworks, and paradigms like a boss! 💪
-
-Right now, I'm all heart-eyed for full-stack web development and diving headfirst into the world of Android app creation! 🌐📱And guess what? I'm totally down for rad collabs, 'cause teamwork makes the dream work, right? 🤝
-
-So buckle up, 'cause I'm on a non-stop rollercoaster of learning and exploring, ready to take on any coding challenge that comes my way! 🎢 Together, let's code the future and make the world a better place, one line of code at a time! 🌈✨
-In conclusion, I am steadfast in my pursuit of excellence, standing at the threshold of knowledge with a fervent determination to embrace all that the world of technology has to offer.
-
-- 📧 You can contact me at [sakshiagnihotri26@gmail.com](mailto:sakshiagnihotri26@gmail.com)
-- 🔭 I'm currently working on [Study Buddy](http://studybuddy) - a project.
-- 🌱 I'm learning full-stack web development,Data Science and Analytics, Cloud Computing, Cybersecurity, and Andriod app development.
-- 👯 I'm open to collaborating on projects.
-- ⚡ Fun Fact: I am Catwoman!, lol no i am smiderwomen , lol no 
+🎓 Computer Engineering Student | 💻 Full Stack Developer | 🚀 Tech Explorer  
 
 ---
 
-### Skills
-<p align="left">
-  <a href="https://www.github.com/sakshithewitness" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sakshithewitness?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
+Hey! I’m Sakshi Agnihotri — your curious and passionate techie from Cummins College of Engineering for Women, Nagpur. I’ve been coding since I was 14, and my journey has only gotten more exciting since then!
+
+From building scalable backend systems and Android apps to exploring AI-driven healthcare tools, I’m constantly learning, building, and collaborating to create tech that actually helps people.
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:**  
+Java, C++, Python (Basics), SQL, JavaScript (Basics)
+
+**Web Development:**  
+HTML, CSS, Node.js (Basics), Express.js (Basics), APIs, Spring Boot (Basics), Thymeleaf
+
+**Tools & Tech:**  
+MySQL, Postman, Git, GitHub, REST APIs, AWS EC2, CI/CD, Flutter, Flask, TensorFlow Lite
+
+**Core Concepts:**  
+OOP, DBMS, DSA, Operating Systems, Software Engineering
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [sakshi.agnihotri@cumminscollege.edu.in](mailto:sakshi.agnihotri@cumminscollege.edu.in)  
+- 🌐 LinkedIn: [Sakshi Agnihotri](http://www.linkedin.com/in/sakshi-agnihotri-3b6490282)  
+- 💻 GitHub: [@sakshithewitness](https://github.com/sakshithewitness)  
+- 🎥 YouTube: [@sakshi.the.witness](https://www.youtube.com/c/@sakshi.the.witness)  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshithewitness&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshithewitness&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sakshithewitness&bg_color=1c1917&color=ffffff&line=ff6ec7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
 </p>
 
-</p>
-### Socials
+---
 
-<p align="left"> <a href="https://discord.com/users/.the.witness" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sakshithewitness" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/https://www.instagram.com/sakshi.the.witness/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/sakshi-agnihotri-3b6490282" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@sakshi.the.witness" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges
+## ☀️ Fun Facts
 
-<b>My GitHub Stats</b>
+- 💃 I balance code with creativity — from playlist curation to nail art  
+- 🧘‍♀️ Yoga + tech = my perfect balance  
+- 🐱 Definitely not Catwoman… but Spider-woman? We’ll see 😉
 
-<a href="http://www.github.com/sakshithewitness"><img src="https://github-readme-stats.vercel.app/api?username=sakshithewitness&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sakshithewitness's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/sakshithewitness"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshithewitness&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/sakshithewitness"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sakshithewitness&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+⭐ *Thanks for visiting!.*  

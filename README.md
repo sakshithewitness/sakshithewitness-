@@ -49,9 +49,7 @@ OOP, DBMS, DSA, Computer Networks, Software Engineering
 
 ## ☀️ Fun Facts
 
-- 💃 I balance code with creativity — from playlist curation to nail art  
-- 🧘‍♀️ Yoga + tech = my perfect balance  
-- 🐱 Definitely not Catwoman… but Spider-woman? We’ll see 😉
+⚰️ Fun Fact: I debug my life the same way I debug code ... ignore all the warnings until something crashes.
 
 ---
 

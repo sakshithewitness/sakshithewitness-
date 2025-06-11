@@ -6,9 +6,9 @@
 
 ---
 
-Hey! I’m Sakshi Agnihotri — your curious and passionate techie from Cummins College of Engineering for Women, Nagpur. I’ve been coding since I was 14, and my journey has only gotten more exciting since then!
+Hey! I’m Sakshi Agnihotri your curious and passionate techie from Cummins College of Engineering for Women, Nagpur. I’ve been coding since I was 14, and my journey has only gotten more exciting since then!
 
-From building scalable backend systems and Android apps to exploring AI-driven healthcare tools, I’m constantly learning, building, and collaborating to create tech that actually helps people.
+From building scalable backend systems and Android apps to exploring , I’m constantly learning, building, and collaborating to create tech that actually helps people.
 
 ---
 
